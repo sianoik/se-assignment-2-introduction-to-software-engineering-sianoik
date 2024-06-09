@@ -219,8 +219,16 @@ What are some ethical issues that software engineers might face? How can softwar
 - openness on software ability and limitations
 - avoiding algorithime biasness
 - considering societal impact of the software.
+
+HOW SOFTWARE ENGINEERS ENSURE ADHERENCE TO ETHICAL STANDARDS
+- they ensure to follow proffessional ethics
+- pay respect to intellectual property
+- Ensure security is a priority to every development stage
+- be clear and transparent about what the software is all about including the limitations
+- ensure they have prioritised on the quality andreliability of the software
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
+open ai
 Submit your completed assignment by [due date].
